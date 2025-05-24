@@ -29,7 +29,7 @@ This is a simple **Group Chat** application built using **Java Socket Programmin
 ## 🖼️ Interface
 
 <img src="sc1.png" alt="Chat App Interface Screenshot" width="1000"/>
-<img src="sc2.png" alt="Chat App Interface Screenshot" width="600"/>
+<img src="sc2.png" alt="Chat App Interface Screenshot" width="650"/>
 
 ---
 
