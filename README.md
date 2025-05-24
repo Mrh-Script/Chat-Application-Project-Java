@@ -35,8 +35,8 @@ This is a simple **Group Chat** application built using **Java Socket Programmin
 
 ## ▶️ How to Run
 
- - Run the Server Code first
- - Then run client's code to connect with server
+ - Run the Server code first
+ - Then run Client's code to connect with Server
 
 ---
 
