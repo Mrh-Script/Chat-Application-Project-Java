@@ -11,10 +11,8 @@ This is a simple **Group Chat** application built using **Java Socket Programmin
 - Real-time group messaging  
 - Displays online users in a side panel  
 - Notifies when a user joins or leaves  
-- Leave button to disconnect from chat  
-- Simple, customizable Swing UI  
-- Keeps chat history when someone leaves  
-
+- Leave button to disconnect from chat
+  
 ---
 
 ## 🛠️ Technology Used
@@ -31,7 +29,7 @@ This is a simple **Group Chat** application built using **Java Socket Programmin
 ## 🖼️ Interface
 
 <img src="sc1.png" alt="Chat App Interface Screenshot" width="1000"/>
-<img src="sc2.png" alt="Chat App Interface Screenshot" width="800"/>
+<img src="sc2.png" alt="Chat App Interface Screenshot" width="700"/>
 
 ---
 
