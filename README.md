@@ -1,4 +1,4 @@
-# 🗨️ Java Group Chat Application
+# Group Chat Application
 
 ## 📝 Summary
 
